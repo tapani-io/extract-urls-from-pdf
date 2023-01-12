@@ -1,6 +1,6 @@
-# Extract URLS from PDF
+# Extract URLs from PDF
 
-A simple program to extract all hyperlinks from a PDF file.
+A simple command-line program to extract all URLs from a PDF file.
 
 ## Commands
 
